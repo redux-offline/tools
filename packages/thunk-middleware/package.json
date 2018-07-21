@@ -1,0 +1,21 @@
+{
+  "name": "@redux-offline/thunk-middleware",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redux-offline/tools.git"
+  },
+  "keywords": [
+    "redux-offline"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/redux-offline/tools/issues"
+  },
+  "homepage": "https://github.com/redux-offline/tools#readme"
+}
