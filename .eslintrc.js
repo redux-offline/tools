@@ -1,7 +1,7 @@
 module.exports = {
   parser: 'babel-eslint',
-  extends: ['airbnb-base', 'prettier'],
-  plugins: ['prettier'],
+  extends: ['airbnb-base', 'prettier', 'plugin:flowtype/recommended'],
+  plugins: ['prettier', 'flowtype'],
   globals: {
     Promise: true
   },

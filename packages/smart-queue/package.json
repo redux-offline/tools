@@ -1,20 +1,16 @@
 {
-  "name": "queue",
+  "name": "smart-queue",
   "version": "1.0.0",
   "description": "queue plugins",
-  "main": "index.js",
-  "scripts": {},
-  "jest": {
-    "rootDir": "smart-queue"
-  },
+  "main": "./src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/redux-offline/queue/.git"
+    "url": "git+https://github.com/redux-offline/tools/.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/redux-offline/queue/issues"
+    "url": "https://github.com/redux-offline/tools/issues"
   },
-  "homepage": "https://github.com/redux-offline/queue#readme"
+  "homepage": "https://github.com/redux-offline/tools#readme"
 }
